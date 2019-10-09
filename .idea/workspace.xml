@@ -6,7 +6,19 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de136612-9639-427e-b0a0-efb7ac746eb3" name="Default Changelist" comment="" />
+    <list default="true" id="de136612-9639-427e-b0a0-efb7ac746eb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/display.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvcdemo.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/springmvcdemo.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvcdemo/WEB-INF/classes/com/stackroute/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/springmvcdemo/WEB-INF/classes/com/stackroute/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvcdemo/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/springmvcdemo/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvcdemo/WEB-INF/view/display.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvcdemo/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/springmvcdemo/index.jsp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,12 +43,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1Rgx1V6dNLOZQEvjp7gYkaBjbWp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/target/springmvcdemo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -52,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Smart Tomcat.tomcat">
+  <component name="RunManager" selected="Smart Tomcat.tomcat 9">
     <configuration name="springmvcdemo [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -153,10 +169,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+    <configuration name="tomcat 9" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
       <option name="DOC_BASE" value="$PROJECT_DIR$/target/springmvcdemo" />
       <option name="DOC_MODULE_ROOT" value="" />
-      <option name="CONTEXT_PATH" value="/" />
+      <option name="CONTEXT_PATH" value="/SpringMvcDemo" />
       <option name="TOMCAT_PORT" value="8080" />
       <option name="AJP_PORT" value="8009" />
       <option name="ADMIN_PORT" value="8005" />
@@ -176,16 +192,13 @@
       <option name="DATA_SOURCE_NAME" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="SpringMvcDemo.war" />
-        </option>
       </method>
     </configuration>
     <list>
       <item itemvalue="Maven.springmvcdemo [clean]" />
       <item itemvalue="Maven.springmvcdemo [package]" />
-      <item itemvalue="Smart Tomcat.tomcat" />
       <item itemvalue="Maven.springmvcdemo [compile]" />
+      <item itemvalue="Smart Tomcat.tomcat 9" />
     </list>
     <recent_temporary>
       <list>
@@ -210,5 +223,18 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
